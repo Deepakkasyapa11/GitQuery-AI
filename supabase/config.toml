@@ -1,0 +1,7 @@
+project_id = "ftseywuyjelodzczdtfx"
+
+[functions.process-repo]
+verify_jwt = false
+
+[functions.chat]
+verify_jwt = false
